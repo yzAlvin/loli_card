@@ -1,0 +1,33 @@
+body, p {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+img {
+    float:left;
+}
+
+label {
+    width: 150px;
+    display: inline-block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#hi, #details, #button {
+    text-align: center;
+}
+
+#hi {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    width: 150px;
+}
+
+#button {
+    padding-top: 20px;
+}
